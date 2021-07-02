@@ -1,33 +1,33 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `A Unix Explorer!`,
+    name: `Noor`,
+    siteUrl: `https://unixdude.tech`,
+    description: `unixdude, tech, A unix Explorer!`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Welcome to my Website.Just landed a brand new website.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `#`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `#`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `#`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `#`,
       },
       {
         name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `#`,
       },
     ],
   },
