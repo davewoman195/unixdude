@@ -5,29 +5,29 @@ module.exports = {
     siteUrl: `https://unixdude.tech`,
     description: `unixdude, tech, A unix Explorer!`,
     hero: {
-      heading: `Noor <br> A Unix Explorer!`,
-      maxWidth: 400,
+      heading: `Noor A Unix Explorer!`,
+      maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `#`,
+        url: ``,
       },
       {
         name: `github`,
-        url: `#`,
+        url: ``,
       },
       {
         name: `instagram`,
-        url: `#`,
+        url: ``,
       },
       {
         name: `linkedin`,
-        url: `#`,
+        url: ``,
       },
       {
         name: `dribbble`,
-        url: `#`,
+        url: ``,
       },
     ],
   },
