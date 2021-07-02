@@ -5,7 +5,8 @@ module.exports = {
     siteUrl: `https://unixdude.tech`,
     description: `unixdude, tech, A unix Explorer!`,
     hero: {
-      heading: `Welcome to my Website.Just landed a brand new website.`,
+      heading: `Noor
+                A Unix Explorer!`,
       maxWidth: 652,
     },
     social: [
